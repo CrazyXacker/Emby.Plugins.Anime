@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="214911b9-68ff-4523-b885-069fb8a10d3e" name="Default Changelist" comment="" />
+    <list default="true" id="214911b9-68ff-4523-b885-069fb8a10d3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Emby.Plugins.Anime/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Emby.Plugins.Anime/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="JSON File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/14/dc8693e1/ItemLookupInfo.cs" root0="SKIP_HIGHLIGHTING" />
@@ -38,6 +44,7 @@
         <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Providers/GenreHelper.cs" />
         <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Emby.Plugins.Anime.csproj" />
         <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeriesProvider.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -63,13 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1653319835307</updated>
       <workItem from="1653319837640" duration="7328000" />
+      <workItem from="1653327326356" duration="950000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
