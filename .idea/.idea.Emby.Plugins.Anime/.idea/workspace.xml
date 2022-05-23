@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="214911b9-68ff-4523-b885-069fb8a10d3e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/14/dc8693e1/ItemLookupInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/53/d7da8e6c/ILocalizationManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/10/fe3ce72a/PluginPageInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/28/c81b668c/SeriesStatus.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/61/8eeeb45f/IMetadataContainer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/11/2b25abcf/IHasWebPages.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/57/0a91a454/LibraryOptions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/dd/29e15ddc/BaseItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3968608E-DA49-4DF0-A690-BF46D2872857/e1/7b63c5c4/BasePlugin`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/0c/ccc8d5af/Series.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Configuration/configPageRu.html" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Configuration/PluginConfiguration.cs" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Plugin.cs" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Configuration/Emby.Plugins.Anime.strings.en-US.json" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Configuration/configPage.html" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Providers/GenreHelper.cs" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Emby.Plugins.Anime.csproj" />
+        <option value="$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeriesProvider.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29ZTuzB3QIk6t0MPrI9wjPdEXC8" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="214911b9-68ff-4523-b885-069fb8a10d3e" name="Default Changelist" comment="" />
+      <created>1653319835307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653319835307</updated>
+      <workItem from="1653319837640" duration="7328000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="111" width="854" height="709" key="find.popup" timestamp="1653326147050">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="111" width="854" height="709" key="find.popup/0.0.1920.1032/-1680.32.1680.1002@0.0.1920.1032" timestamp="1653326147050" />
+  </component>
+</project>

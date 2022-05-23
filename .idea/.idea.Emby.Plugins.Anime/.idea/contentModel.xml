@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\sasha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\sasha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Emby.Plugins.Anime.1523174158.00" t="ExcludeRecursive" />
+    <e p="D:\Projects\Visual Studio\Emby.Plugins.Anime" t="IncludeFlat">
+      <e p="Emby.Plugins.Anime" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configuration" t="Include">
+          <e p="configPage.html" t="Include" />
+          <e p="PluginConfiguration.cs" t="Include" />
+        </e>
+        <e p="DictionaryExtensions.cs" t="Include" />
+        <e p="Emby.Plugins.Anime.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Emby.Plugins.Anime.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Plugin.cs" t="Include" />
+        <e p="Providers" t="Include">
+          <e p="AniDB" t="Include">
+            <e p="AniDbExternalId.cs" t="Include" />
+            <e p="Converter" t="Include">
+              <e p="AnidbEpisodeIdentity.cs" t="Include" />
+              <e p="AnidbTvdbEpisodeConverter.cs" t="Include" />
+              <e p="AnidbTvdbSeasonConverter.cs" t="Include" />
+              <e p="TvdbEpisodeIdentity.cs" t="Include" />
+            </e>
+            <e p="Identity" t="Include">
+              <e p="AnidbEpisodeIdentityProvider.cs" t="Include" />
+              <e p="AnidbSeriesIdentityProvider.cs" t="Include" />
+              <e p="AniDbTitleDownloader.cs" t="Include" />
+              <e p="AniDbTitleMatcher.cs" t="Include" />
+              <e p="IAniDbTitleDownloader.cs" t="Include" />
+              <e p="IAniDbTitleMatcher.cs" t="Include" />
+            </e>
+            <e p="Metadata" t="Include">
+              <e p="AniDbEpisodeProvider.cs" t="Include" />
+              <e p="AniDbPersonInfo.cs" t="Include" />
+              <e p="AniDbPersonProvider.cs" t="Include" />
+              <e p="AniDbSeasonImageProvider.cs" t="Include" />
+              <e p="AniDbSeasonProvider.cs" t="Include" />
+              <e p="AniDbSeriesImagesProvider.cs" t="Include" />
+              <e p="AniDbSeriesProvider.cs" t="Include" />
+            </e>
+          </e>
+          <e p="AniList" t="Include">
+            <e p="AniListExternalId.cs" t="Include" />
+            <e p="AniListSeriesProvider.cs" t="Include" />
+            <e p="api.cs" t="Include" />
+            <e p="ApiModel.cs" t="Include" />
+          </e>
+          <e p="AniSearch" t="Include">
+            <e p="AniSearchEpisodenProvider.cs" t="Include" />
+            <e p="AniSearchExternalID.cs" t="Include" />
+            <e p="AniSearchSeriesProvider.cs" t="Include" />
+            <e p="api.cs" t="Include" />
+          </e>
+          <e p="equals_check.cs" t="Include" />
+          <e p="GenreHelper.cs" t="Include" />
+          <e p="MyAnimeList" t="Include">
+            <e p="api.cs" t="Include" />
+            <e p="MyAnimeListExternalID.cs" t="Include" />
+            <e p="MyAnimeListSeriesProvider.cs" t="Include" />
+          </e>
+          <e p="ProviderNames.cs" t="Include" />
+          <e p="Proxer" t="Include">
+            <e p="api.cs" t="Include" />
+            <e p="ProxerExternalID.cs" t="Include" />
+            <e p="ProxerSeriesProvider.cs" t="Include" />
+          </e>
+        </e>
+        <e p="RateLimiter.cs" t="Include" />
+        <e p="thumb.png" t="Include" />
+      </e>
+      <e p="Emby.Plugins.Anime.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

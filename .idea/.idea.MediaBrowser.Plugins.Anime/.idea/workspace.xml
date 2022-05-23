@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ba9f3a8-1c94-45b6-bf6c-2e4e74fcf1de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/99/e96c5b25/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniDB/AniDbExternalId.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniSearch/AniSearchSeriesProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniSearch/AniSearchEpisodenProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3968608E-DA49-4DF0-A690-BF46D2872857/f0/5ac85ee9/IHttpClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/7b/33d2f448/ILogger.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6DADD22E-0197-42CE-80AA-EFEF99855BE0/1a/e3b43ca9/XmlReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/GenreHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeriesProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3968608E-DA49-4DF0-A690-BF46D2872857/01/07779853/IApplicationPaths.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeasonProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/913A060E-27D6-488B-B9F5-8574A0F496CA/dd/29e15ddc/BaseItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Emby.Plugins.Anime/Configuration/PluginConfiguration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/658711AA-7C63-4617-B16A-C036A937B4F1/a4/e5488f91/ILogManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MediaBrowser.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeasonProvider.cs" />
+        <option value="$PROJECT_DIR$/MediaBrowser.Plugins.Anime/Configuration/PluginConfiguration.cs" />
+        <option value="$PROJECT_DIR$/MediaBrowser.Plugins.Anime/Providers/AniDB/Metadata/AniDbSeriesProvider.cs" />
+        <option value="$PROJECT_DIR$/MediaBrowser.Plugins.Anime/Providers/GenreHelper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29ZJM7e39AD7OYaOfxFZH8PStVZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ba9f3a8-1c94-45b6-bf6c-2e4e74fcf1de" name="Default Changelist" comment="" />
+      <created>1653314625930</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653314625930</updated>
+      <workItem from="1653314628094" duration="4860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="473" y="93" width="1185" height="778" key="find.popup" timestamp="1653319733325">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="473" y="93" width="1185" height="778" key="find.popup/0.0.1920.1032/-1680.32.1680.1002@0.0.1920.1032" timestamp="1653319733325" />
+  </component>
+</project>
