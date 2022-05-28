@@ -277,6 +277,7 @@ namespace Emby.Plugins.Anime.Providers.AniDB.Metadata
             {"sister-sister incest", "Сестра с сестрой"},
             {"uncle-niece incest", "Дядя и пелмянница"},
             {"sleeping sex", "Спящие"},
+            {"dark elf", "Тёмные эльфы"},
         };
 
         public AniDbSeriesProvider(IApplicationPaths appPaths, IHttpClient httpClient)
